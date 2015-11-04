@@ -1,0 +1,23 @@
+name: Le Blog de David
+favicon: null
+layout_spectrum: 0.9267530078068376
+typography_spectrum: 0.5914489971473813
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.3435887540690601
+  lightness: 0.7733603257220238
+  saturation: 0.6963214676361531
+  rhythmicContrast: 0.7965708442497998
+purpose: []
